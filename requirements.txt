@@ -1,4 +1,4 @@
-arrow==0.12.1
+arrow==0.15.1
 bs4==0.0.1
 pymongo==3.7.2
 requests==2.21.0
